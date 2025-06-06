@@ -1,0 +1,1 @@
+add_executable(wordle_login main.cpp login_manager.cpp)
